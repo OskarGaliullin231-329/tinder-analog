@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T20:02:30.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0 (Edition Yx 08)" etag="FM1QKNYmREpM5btk1FdQ" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-21T20:05:48.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0 (Edition Yx 08)" etag="JaRmVTbLXJ1E615Pbtkr" version="22.1.3" type="github">
   <diagram name="Страница — 1" id="kIvSVrA3VFIupachxoN8">
     <mxGraphModel dx="996" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -125,16 +125,16 @@
           <mxGeometry x="20" y="670" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V3N97cfubyy96YD3l16j-41" value="&quot;Ваше отношение к занятиям спортом&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="710" width="140" height="30" as="geometry" />
+          <mxGeometry x="30" y="700" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V3N97cfubyy96YD3l16j-43" value="&quot;Ваша увлеченность классическим искусством&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="25" y="740" width="150" height="40" as="geometry" />
+          <mxGeometry x="25" y="730" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V3N97cfubyy96YD3l16j-44" value="&quot;Ваш любимый жанр музыки &quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="560" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="V3N97cfubyy96YD3l16j-45" value="&quot;Насколько серьезные отношения вы ищете?&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="17.5" y="810" width="170" height="30" as="geometry" />
+          <mxGeometry x="17.5" y="800" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V3N97cfubyy96YD3l16j-47" value="&quot;какая у вас любимая еда?&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="273.75" y="440" width="92.5" height="40" as="geometry" />
@@ -193,17 +193,17 @@
         <mxCell id="rZEXLQ-iUhm-P5HKlSmc-4" value="&quot;Редактировать анкету&quot;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="795" y="210" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jP-Up8USxApa_APZ-Txh-1" value="Фотография" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="jP-Up8USxApa_APZ-Txh-1" value="Фотография" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="42.5" y="540" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jP-Up8USxApa_APZ-Txh-3" value="&quot;Ваша увлеченность наукой&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="840" width="170" height="30" as="geometry" />
+        <mxCell id="jP-Up8USxApa_APZ-Txh-3" value="&quot;Ваша увлеченность наукой&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="830" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jP-Up8USxApa_APZ-Txh-4" value="&quot;Насколько Вы меломан?&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="15" y="780" width="170" height="30" as="geometry" />
+        <mxCell id="jP-Up8USxApa_APZ-Txh-4" value="&quot;Насколько Вы меломан?&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="15" y="770" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jP-Up8USxApa_APZ-Txh-5" value="&quot;Ваша увлеченность наукой&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="870" width="170" height="30" as="geometry" />
+        <mxCell id="jP-Up8USxApa_APZ-Txh-5" value="&quot;Насколько здоровый образ жизни Вы ведёте?&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="860" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
