@@ -6,6 +6,45 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: "Assets/\u0410uthorization.unity"
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Register.unity
+    guid: dca10b11eaa65fe4dbbdd00a3727f932
+  - enabled: 1
+    path: Assets/Scenes/Anketa1.unity
+    guid: 5c560fafad2d82a498c53f8f63a921be
+  - enabled: 1
+    path: Assets/Scenes/Anketa2.unity
+    guid: 59ce943935cf6924e92a1860286830a2
+  - enabled: 1
+    path: Assets/Scenes/Recover.unity
+    guid: 6121c83f309b9544fbcd8fd996e629b3
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 8df2b05a23de87e4991687e48844e69c
+  - enabled: 1
+    path: Assets/Scenes/MyAnketa.unity
+    guid: 6251cfe26e36ea648b9efb6b5fc2c92c
+  - enabled: 1
+    path: Assets/Scenes/Chats.unity
+    guid: aa49350ed04a22c41999176372b2df85
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: b26263ab79eaacd42bbef045e0927f47
+  - enabled: 1
+    path: Assets/Scenes/FriendAnketa.unity
+    guid: 426976cda4109d7499dc55aa271c05e1
+  - enabled: 1
+    path: Assets/Scenes/RealChat.unity
+    guid: d9a16dbfac7c8a0408eb4a224076b6dd
+  - enabled: 1
+    path: Assets/Scenes/Account.unity
+    guid: 8b6bb1f13405c7448a72e423fc160d6d
+  - enabled: 1
+    path: Assets/Scenes/Password.unity
+    guid: 0fb4530ab3af6344d835835d42922145
+  - enabled: 1
+    path: Assets/Scenes/Blacklist.unity
+    guid: 690244bdcc2ac2243b52aecf547d8f15
   m_configObjects: {}
