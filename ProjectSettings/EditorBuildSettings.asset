@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: "Assets/\u0410uthorization.unity"
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/Register.unity
+    path: Assets/Register.unity
     guid: dca10b11eaa65fe4dbbdd00a3727f932
   - enabled: 1
     path: Assets/Scenes/Anketa1.unity
